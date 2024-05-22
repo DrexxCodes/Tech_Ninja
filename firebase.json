@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "apkhunter",
     "public": "public",
     "ignore": [
       "firebase.json",
