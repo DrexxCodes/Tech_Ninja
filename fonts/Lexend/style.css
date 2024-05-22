@@ -1,0 +1,63 @@
+@font-face {
+   font-family: 'Lexend';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 100;
+   src: url('file:///D:/apkhunter.store/fonts/Lexend/100.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Lexend';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///D:/apkhunter.store/fonts/Lexend/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Lexend';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///D:/apkhunter.store/fonts/Lexend/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Lexend';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///D:/apkhunter.store/fonts/Lexend/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Lexend';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///D:/apkhunter.store/fonts/Lexend/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Lexend';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///D:/apkhunter.store/fonts/Lexend/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Lexend';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 800;
+   src: url('file:///D:/apkhunter.store/fonts/Lexend/800.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Lexend';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///D:/apkhunter.store/fonts/Lexend/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Lexend';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///D:/apkhunter.store/fonts/Lexend/regular.ttf') format('truetype');
+}
