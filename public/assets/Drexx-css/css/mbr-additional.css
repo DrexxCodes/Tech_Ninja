@@ -41,6 +41,12 @@ body {
 .display-7 > .mbr-iconfont {
   font-size: 1.5rem;
 }
+
+#typewriter {
+  color: white;
+  background: #b50dd6;
+}
+
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
 /* 100vw - current viewport width */
@@ -3497,7 +3503,7 @@ a {
 }
 .cid-ubN0DWX1GZ .line {
   background-color: #6592e6;
-  align: center;
+  text-align: center;
   height: 2px;
   margin: 0 auto;
 }
@@ -14285,7 +14291,7 @@ a {
 }
 .cid-ubR4cUGtD9 .line {
   background-color: #ffffff;
-  align: center;
+  text-align: center;
   height: 2px;
   margin: 0 auto;
 }
@@ -15186,7 +15192,7 @@ a {
 }
 .cid-ubR8cSWn2Y .line {
   background-color: #ffffff;
-  align: center;
+  text-align: center;
   height: 2px;
   margin: 0 auto;
 }
@@ -16087,7 +16093,7 @@ a {
 }
 .cid-ubR8XYxJH8 .line {
   background-color: #ffffff;
-  align: center;
+  text-align: center;
   height: 2px;
   margin: 0 auto;
 }
@@ -16988,7 +16994,7 @@ a {
 }
 .cid-ubR9fInRFB .line {
   background-color: #ffffff;
-  align: center;
+  text-align: center;
   height: 2px;
   margin: 0 auto;
 }
@@ -17889,7 +17895,7 @@ a {
 }
 .cid-ubR9nP2qJr .line {
   background-color: #ffffff;
-  align: center;
+  text-align: center;
   height: 2px;
   margin: 0 auto;
 }
